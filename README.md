@@ -50,7 +50,7 @@ API_KEY - ключ доступа.
 
  Далее запросы по заданию.
 
-Добавления товара 
+h3 Добавления товара 
 - http://220v.inwebit.ru/product/create?title=Test Product &vendor_id=2CIF&price=300&description=dfsdffdfasdfasdf&quantity=89&api_key=ASDad4qtDAS2t342
 
 Удаление товара
